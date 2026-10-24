@@ -1,0 +1,31 @@
+{
+  "os": "macOS-15.8.1-x86_64-i386-64bit",
+  "python": "CPython 3.11.6",
+  "startedAt": "2026-10-22T12:09:47.887191Z",
+  "program": "/Users/miguelyu/Desktop/ICU_Survival_analysis/04_ICU_ML_W&B.ipynb",
+  "codePath": "/Users/miguelyu/Desktop/ICU_Survival_analysis/04_ICU_ML_W&B.ipynb",
+  "codePathLocal": "04_ICU_ML_W&B.ipynb",
+  "git": {
+    "remote": "https://github.com/devMYurge/ICU_Survival_analysis.git",
+    "commit": "d450b03f7792bd286a6b58441e4b2c0185651442"
+  },
+  "email": "business.myu@gmail.com",
+  "root": "/Users/miguelyu/Desktop/ICU_Survival_analysis",
+  "host": "Miguels-MacBook-Pro.local",
+  "executable": "/Users/miguelyu/Desktop/ICU_Survival_analysis/icu-survival/bin/python",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "250685575168",
+      "used": "217125322752"
+    }
+  },
+  "memory": {
+    "total": "8589934592"
+  },
+  "cpu": {
+    "model": "Intel(R) Core(TM) i5-8279U CPU @ 2.40GHz"
+  },
+  "writerId": "01a16384-7699-78be-930d-75fd9e7257f3"
+}
